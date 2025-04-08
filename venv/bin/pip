@@ -1,4 +1,4 @@
-#!/home/explicit/OperatingSystemsProjectAVSOFT/venv/bin/python3
+#!/home/explicit/AntivirusSoftwareYARA/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
