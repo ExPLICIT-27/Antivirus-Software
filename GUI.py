@@ -65,7 +65,7 @@ my_button.pack(pady=20)
 my_label = tb.Label(text="Scan results", font=("Courier New", 30, "bold"), bootstyle="default")
 my_label.pack(pady=20)
 
-output_text = Text(root, width=200, height=30, wrap='word', font=("Courier New", 14, "bold"))
+output_text = Text(root, width=200, height=50, wrap='word', font=("Courier New", 14, "bold"))
 output_text.pack(pady=10)
 
 
